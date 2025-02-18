@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Valentin
 
-🎓 I hold a Master’s and Bachelor's degree in Media Technology from the Technical University of Ilmenau. During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at TechnoTeam Bildverarbeitung GmbH, a company specializing in luminance measuring devices and image processing in that field.
+🎓 I hold a Master’s and Bachelor's degree in [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc)  (now called Media Engineering Sciences) from the [Technical University of Ilmenau](https://www.tu-ilmenau.de/). During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
 📜 Bachelor Thesis: Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images.
 
