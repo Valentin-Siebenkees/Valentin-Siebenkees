@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Valentin
+# Greetings 👋 I'm Valentin
+
+## 👨🏻‍💻  About Me
 
 🎓 I hold a Master’s and Bachelor's degree in [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc)  (now called Media Engineering Sciences) from the [Technical University of Ilmenau](https://www.tu-ilmenau.de/). During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
@@ -30,7 +32,14 @@ Passionate about the intersection of technology and human perception, I enjoy wo
 📂 I have created a [repository](https://github.com/Valentin-Siebenkees/StudyNotes) where I document my notes and learning progress in these topics
 
 ---
+## 🛠  Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+---
 ## 📫 Let’s Connect!
 
 I’m always eager to learn, collaborate, and grow! Feel free to reach out:
