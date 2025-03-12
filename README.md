@@ -12,12 +12,12 @@ Passionate about the intersection of technology and human perception, I enjoy wo
 
 ## 🌟 What I’m Passionate About
 
+* 💻 Programming – algorithms, architecture, and clean code (Python and C++)
+* 🏥 Medical Imaging – capturing, processing, and evaluating medical images
 * 🎥 Image & Video Processing – from coding to enhancing visual experiences
 * 💡 Light & Optics – understanding and leveraging the science behind optical systems and physics of light
 * 🤖 Machine Learning – applying AI to improve processing aswell as classification tasks in various imaging applications
 * 👁 Human Perception – exploring how we perceive image and video (quality)
-* 🏥 Medical Imaging – capturing, processing, and evaluating medical images
-* 💻 Programming – algorithms, architecture, and clean code in Python and C++
 
 ---
 
