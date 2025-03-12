@@ -44,8 +44,8 @@ Passionate about the intersection of technology and human perception, I enjoy wo
 
 I’m always eager to learn, collaborate, and grow! Feel free to reach out:
 
-🔗 LinkedIn: www.linkedin.com/in/valentin-siebenkees-312100259
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/valentin-siebenkees-312100259)
 
-✉️ Email: valentin.siebenkees@gmx.de
+[![Mail](https://img.shields.io/badge/-Mail-0078D4?logo=mail.ru&logoColor=white)](mailto:valentin.siebenkees@gmx.de)
 
 Let’s create together! 🚀
