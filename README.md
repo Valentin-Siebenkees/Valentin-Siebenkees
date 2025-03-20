@@ -2,7 +2,12 @@
 
 ## 👨🏻‍💻  About Me
 
-🎓 I hold a Master’s and Bachelor's degree in [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc)  (now called Media Engineering Sciences) from the [Technical University of Ilmenau](https://www.tu-ilmenau.de/). During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
+I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer, I have a special passion for working with cameras — exploring photo and videography while diving into the physics and technology behind it.
+
+In my free time, you’ll often find me climbing, running, swimming, hanging out with friends, or playing my bass guitar.
+
+🎓 Because of my interest in technology, I decided to study media technology [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a bachelors and masters degree in.
+During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
 📜 Bachelor Thesis: Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images.
 
