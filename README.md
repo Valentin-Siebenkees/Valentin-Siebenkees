@@ -13,8 +13,6 @@ During my studies, I worked as a student assistant for the faculty of Audiovisua
 
 📜 Master Thesis: Conducted research as well as subjective and objective testing at Siemens Healthineers to improve the perceived quality of remote scanning with medical scanners. This involved developing a C++ program to manipulate a video signal in order to simulate varying frame rates and compression levels, as well as a Python GUI to guide through the subjective testing process and to document the retrieved data.
 
-Passionate about the intersection of technology and human perception, I enjoy working on projects that involve image & video processing, light & optics, and machine learning. I thrive in uniting these topics in the medical sector to improve healthcare in the future.
-
 ---
 
 ## 🌟 What I’m Passionate About
