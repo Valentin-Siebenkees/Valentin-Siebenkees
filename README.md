@@ -59,6 +59,8 @@ While I am looking for a fulltime position, I am working as Tier 3 Python freela
 ---
 ### Scientific Work:
 
+<br>
+
 📜 Master Thesis: [Assessing remote desktop applications for medical imaging in varying network environments](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00020464)
 
 Conducted research as well as subjective and objective testing at Siemens Healthineers to improve the perceived quality of remote scanning with medical scanners.
