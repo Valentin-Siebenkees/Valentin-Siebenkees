@@ -53,10 +53,12 @@ For my master thesis, I worked together with [Siemens Healthineers](https://www.
 
 Conducted research as well as subjective and objective testing at Siemens Healthineers to improve the perceived quality of remote scanning with medical scanners. This involved developing a C++ program to manipulate a video signal in order to simulate varying frame rates and compression levels, as well as a Python GUI to guide through the subjective testing process and to document the retrieved data.
 <br>
+<br>
 
 📜 Bachelor Thesis: [Untersuchung des Einsatzes von AR/VR-Systemen für die Kalibrierung/Referenzierung einer fokusbasierten Abstandsmessung mit elektronisch fokussierbaren Objektiven](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00004164)
 
 Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images. This involved the evaluation of different devices to display virtual images, python based automation of measurements based on criteria for determining the quality of focus adjustment, creation of a mathematical model, as well as error estimation based on Monte Carlo simulations.
+<br>
 <br>
 
 📜 Media Project: During the masters degree we worked on an open 8K HDR source dataset for video quality research (AVT-VQDB-UHD-2-HDR)
