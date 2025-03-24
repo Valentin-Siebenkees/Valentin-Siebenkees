@@ -4,7 +4,14 @@
 
 I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer coding, I have a special passion for working with cameras — exploring photo and videography while diving into the physics of optics and light as well as the technology behind "capturing", digitalizing and processing it.
 
-In my free time, you’ll often find me climbing, running, swimming, hanging out with friends, talking walks with our dog Dobby (The best dog in the world) or playing my bass guitar.
+In my free time, you’ll often find me:
+- Climbing
+- Running
+- Swimming
+- Hanging out with friends
+- Taking walks with our dog Dobby (The best dog in the world)
+- Traveling
+- Or playing my bass guitar
 
 ---
 
