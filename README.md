@@ -24,6 +24,7 @@ Because of my interest in technology, I decided to study [Media Technology](http
 
 During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
 <br>
+<br>
 
 <p align="center">
   <img src="Assets/Logo_TTBV.png" alt="TechnoTeam Bildverarbeitung Logo" width="250">
