@@ -45,6 +45,16 @@ Additionally, I completed my mandatory internship, my bachelor thesis, and worke
 </p>
 
 For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on advancing imaging systems in the medical field and improving patient care in the future. 
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="Assets/Logo_Outlier.png" alt="Outlier.ai Logo" width="250">
+</p>
+
+While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output
 
 ---
 #### Scientific Work:
