@@ -21,7 +21,7 @@ In my free time, you’ll often find me:
 </p>
 
 Because of my interest in technology, I decided to study [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
-During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau.
+During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
 <br>
 
 <p align="center">
