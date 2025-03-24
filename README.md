@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻  About Me
 
-I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer, I have a special passion for working with cameras — exploring photo and videography while diving into the physics and technology behind it.
+I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer, I have a special passion for working with cameras — exploring photo and videography while diving into the physics of optics and light as well as the technology behind it.
 
 In my free time, you’ll often find me climbing, running, swimming, hanging out with friends, or playing my bass guitar.
 
