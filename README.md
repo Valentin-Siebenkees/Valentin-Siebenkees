@@ -44,7 +44,7 @@ Additionally, I completed my mandatory internship, my bachelor thesis, and worke
   <img src="Assets/Logo_SHS.png" alt="Siemens Healthineers Logo" width="250">
 </p>
 
-For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on improving imaging systems in the medical field and improving patient care in the future. 
+For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on advancing imaging systems in the medical field and improving patient care in the future. 
 
 ---
 #### Scientific Work:
