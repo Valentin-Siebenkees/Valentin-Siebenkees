@@ -3,6 +3,7 @@
 ## 👨🏻‍💻  About Me
 
 I’ve always enjoyed working with and understanding technology.
+
 Beyond spending time in front of the computer doing various coding work, I have a special passion for working with cameras — exploring photo and videography while diving into the physics of optics and light as well as the technology behind "capturing", digitalizing and processing it.
 
 In my free time, you’ll often find me:
