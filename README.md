@@ -58,12 +58,14 @@ This involved developing a C++ program to manipulate a video signal in order to 
 Additionally, the content to be transmitted was analyzed in regards to temporal and spatial information, as well as color and frequency domain properties, to spot potential points of improvement for compression.
 
 To back this up, objective analysis was done on the test content, using various state of the art compression algorithms and objective (full reference) quality metrics.
+
 <br>
 <br>
 
 📜 Bachelor Thesis: [Untersuchung des Einsatzes von AR/VR-Systemen für die Kalibrierung/Referenzierung einer fokusbasierten Abstandsmessung mit elektronisch fokussierbaren Objektiven](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00004164)
 
 Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images. This involved the evaluation of different devices to display virtual images, python based automation of measurements based on criteria for determining the quality of focus adjustment, creation of a mathematical model, as well as error estimation based on Monte Carlo simulations.
+
 <br>
 <br>
 
