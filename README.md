@@ -23,11 +23,15 @@ In my free time, you’ll often find me:
 Because of my interest in technology, I decided to study [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
 During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau.
 
-![TechnoTeam Bildverarbeitung Logo](Assets/Logo_TTBV.png)
+<p align="center">
+  <img src="Assets/Logo_TTBV.png" alt="TechnoTeam Bildverarbeitung Logo" width="300">
+</p>
 
 Additionally, I completed my mandatory internship, my bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
-![Siemens Healthineers Logo](Assets/Logo_SHS.png)
+<p align="center">
+  <img src="Assets/Logo_SHS.png" alt="Siemens Healthineers Logo" width="300">
+</p>
 
 For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and my ambition to use and expand my knowledge in the field of optics, image processing and software development and to work on improving imaging systems in the medical field and improving patient care in the future. 
 
