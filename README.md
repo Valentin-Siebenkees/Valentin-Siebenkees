@@ -9,6 +9,9 @@ In my free time, you’ll often find me climbing, running, swimming, hanging out
 🎓 Because of my interest in technology, I decided to study media technology [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
 During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau. Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
+---
+#### Scientific Work:
+
 📜 Master Thesis: Conducted research as well as subjective and objective testing at Siemens Healthineers to improve the perceived quality of remote scanning with medical scanners. This involved developing a C++ program to manipulate a video signal in order to simulate varying frame rates and compression levels, as well as a Python GUI to guide through the subjective testing process and to document the retrieved data.
 
 📜 Bachelor Thesis: Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images.
