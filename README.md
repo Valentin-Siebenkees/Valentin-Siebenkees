@@ -11,7 +11,7 @@ In my free time, you’ll often find me:
 - 🏃 Running  
 - 🏊 Swimming  
 - 👫 Hanging out with friends  
-- 🐕 Taking walks with our dog Dobby (The best dog in the world)  
+- 🐕 Taking walks with our dog Dobby (The best dog in the world [photo](Assets/Dobby.jpg))  
 - 🎸 Playing my bass guitar  
 
 ---
