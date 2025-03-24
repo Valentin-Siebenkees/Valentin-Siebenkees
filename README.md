@@ -57,7 +57,7 @@ For my master thesis, I worked together with [Siemens Healthineers](https://www.
 While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output.
 
 ---
-#### Scientific Work:
+### Scientific Work:
 
 📜 Master Thesis: [Assessing remote desktop applications for medical imaging in varying network environments](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00020464)
 
