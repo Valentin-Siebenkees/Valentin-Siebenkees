@@ -19,6 +19,7 @@ In my free time, you’ll often find me:
 <p align="center">
   <img src="Assets/Logo_TUI.png" alt="TU Ilmenau Logo" width="250">
 </p>
+
 Because of my interest in technology, I decided to study [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
 
 During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
@@ -30,6 +31,7 @@ During my studies, I worked as a student assistant for the [Faculty of Audiovisu
 <p align="center">
   <img src="Assets/Logo_TTBV.png" alt="TechnoTeam Bildverarbeitung Logo" width="250">
 </p>
+
 Additionally, I completed my mandatory internship, my bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 <br>
 <br>
@@ -39,6 +41,7 @@ Additionally, I completed my mandatory internship, my bachelor thesis, and worke
 <p align="center">
   <img src="Assets/Logo_SHS.png" alt="Siemens Healthineers Logo" width="250">
 </p>
+
 For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and my ambition to use and expand my knowledge in the field of optics, image processing and software development and to work on improving imaging systems in the medical field and improving patient care in the future. 
 
 ---
