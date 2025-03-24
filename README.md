@@ -2,16 +2,22 @@
 
 ## 👨🏻‍💻  About Me
 
-I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer, I have a special passion for working with cameras — exploring photo and videography while diving into the physics of optics and light as well as the technology behind "capturing", digitalizing and processing it.
+I’ve always enjoyed working with and understanding technology. Beyond spending time in front of the computer coding, I have a special passion for working with cameras — exploring photo and videography while diving into the physics of optics and light as well as the technology behind "capturing", digitalizing and processing it.
 
 In my free time, you’ll often find me climbing, running, swimming, hanging out with friends, talking walks with our dog Dobby (The best dog in the world) or playing my bass guitar.
 
-🎓 Because of my interest in technology, I decided to study [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
+---
+
+## 🎓 Education and Work 
+
+Because of my interest in technology, I decided to study [Media Technology](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/medieningenieurwissenschaften-m-sc) (now called Media Engineering Sciences) at the [Technical University of Ilmenau](https://www.tu-ilmenau.de/) and graduated with a Bachelors and Masters degree in.
 During my studies, I worked as a student assistant for the faculty of Audiovisual Technology in Ilmenau.
 
 Additionally, I completed my mandatory internship, bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
 
 For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and my ambition to use and expand my knowledge in the field of optics, image processing and software development and to work on improving imaging systems in the medical field and improving patient care in the future. 
+
+
 
 ---
 #### Scientific Work:
