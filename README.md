@@ -54,7 +54,7 @@ For my master thesis, I worked together with [Siemens Healthineers](https://www.
   <img src="Assets/Logo_Outlier.png" alt="Outlier.ai Logo" width="250">
 </p>
 
-While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output
+While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output.
 
 ---
 #### Scientific Work:
@@ -114,6 +114,8 @@ Worked on a distance calibration process for focusable lenses of luminance measu
 * [LeetCode](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/LeetCode) – Recently I started doing LeetCode Problems, to structure it I am mostly following the [NeetCode Roadmap](https://neetcode.io/roadmap)
   
 * [Optics](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Optics) – A topic I wanted to revisit, including the physics of light and design of optical systems
+
+* [Signal Processing](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Signal_Processing) – Some Signal Processing topics I learned in university, which I wanted to revisit (Signal Representation, Sampling & Quantization, Convolution, Transformations) 
   
 * [Math](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Math) – I also wanted to revisit some math concepts and go into detail when it comes to math concepts used in machine learning (Linear Algebra, Calculus, Statistics, Linear Models & Optimization)
 
