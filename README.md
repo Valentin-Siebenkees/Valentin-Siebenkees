@@ -35,6 +35,14 @@ During my studies, I worked as a student assistant for the [Faculty of Audiovisu
 </p>
 
 Additionally, I completed my mandatory internship, my bachelor thesis, and worked as a working student at [TechnoTeam Bildverarbeitung GmbH](https://www.technoteam.de/), a company specializing in light measuring devices and image processing in that field.
+
+During my mandatory internship I mainly worked on creating a Python wrapper for the ActiveX server of the measurement software. Besides that I wrote small automation scripts and documentation in various languages/frameworks (Python, C#, LabVIEW, MATLAB, Octave).
+As working student, I worked together with customer support and helped with questions to the ActiveX server. Additionally I helped testing optics for their applicability in luminance measurement applications.
+
+Another project I worked on was the [DUGR Calculator](https://www.technoteam.de/main/applications/light_sources__luminaires/general_lighting/dugr_calculator/index_eng.html), which is is a free and open-source test environment written in Python for calculating UGR characteristic values according to CIE 232:2019.
+
+➡️ [Github Repo](https://github.com/TechnoTeam-Bildverarbeitung-GmbH/DUGR_GUI)
+
 <br>
 <br>
 <br>
