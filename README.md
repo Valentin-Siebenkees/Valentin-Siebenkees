@@ -40,7 +40,8 @@ During my mandatory internship I mainly worked on creating a Python wrapper for 
 
 As working student, I worked together with customer support and helped with questions to the ActiveX server.<br> Additionally I helped testing camera optics for their applicability in luminance measurement applications.
 
-Another project I worked on was the [DUGR Calculator](https://www.technoteam.de/main/applications/light_sources__luminaires/general_lighting/dugr_calculator/index_eng.html), which is is a free and open-source test environment written in Python for calculating UGR characteristic values according to CIE 232:2019.
+Another project I worked on was the [DUGR Calculator](https://www.technoteam.de/main/applications/light_sources__luminaires/general_lighting/dugr_calculator/index_eng.html), which is is a free and open-source test environment written in Python for calculating UGR characteristic values according to CIE 232:2019.<br>
+I was also allowed to present this project at one of europes biggest lighting conferences, the "LICHT2023" in Salzburg.
 
 ➡️ [Github Repo](https://github.com/TechnoTeam-Bildverarbeitung-GmbH/DUGR_GUI)
 
