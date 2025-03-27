@@ -118,6 +118,7 @@ Here are some of the courses I took recently:
   <img src="Assets/Certificates/Python_For_Computer_Vision_Abschlussbescheinigung.jpg" alt="Python for Computer Vision Certificate" width="300">
   <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="300">
 </p>
+
 ---
 
 ## 🌟 What I’m Passionate About
