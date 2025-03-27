@@ -107,18 +107,18 @@ Here are some of the courses I took recently:
 </p>
 
 <p align="center">
-  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="300">
-  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="300">
-  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="300">
+  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250">
+  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250">
+  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="250">
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="300">
-  <img src="Assets/Certificates/Python_For_Computer_Vision_Abschlussbescheinigung.jpg" alt="Python for Computer Vision Certificate" width="300">
-  <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="300">
+  <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="250">
+  <img src="Assets/Certificates/Python_For_Computer_Vision_Abschlussbescheinigung.jpg" alt="Python for Computer Vision Certificate" width="250">
+  <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="250">
 </p>
 
 ---
