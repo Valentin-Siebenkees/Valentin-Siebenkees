@@ -97,6 +97,8 @@ Worked on a distance calibration process for focusable lenses of luminance measu
   - GitHub Repo: [Telecommunication-Telemedia-Assessment - AVT-VQDB-UHD-2-HDR](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-2-HDR)
 
 ---
+## 📚 Online Courses
+
 Besides doing the freelance work at Outlier.ai, and educating myself (see "Currently Exploring and Improving" below) I am also doing online courses in topics which I think might be helpful for my professional career in the future.<br>
 Here are some of the courses I took recently:
 
