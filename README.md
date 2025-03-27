@@ -71,13 +71,13 @@ Besides doing the freelance work at Outlier.ai, and educating myself (see "Curre
 Here are some of the courses I took recently:
 
 <p align="center">
-  <img src="assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
+  <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="300">
-  <img src="assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="300">
-  <img src="assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="300">
+  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="300">
+  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="300">
+  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="300">
 </p>
 
 
