@@ -65,21 +65,6 @@ For my master thesis, I worked together with [Siemens Healthineers](https://www.
 </p>
 
 While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output.
-<br>
-<br>
-Besides doing the freelance work at Outlier.ai, and educating myself (see "Currently Exploring and Improving" below) I am also doing online courses in topics which I think might be helpful for my professional career in the future.<br>
-Here are some of the courses I took recently:
-
-<p align="center">
-  <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
-</p>
-
-<p align="center">
-  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="300">
-  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="300">
-  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="300">
-</p>
-
 
 ---
 ### Scientific Work:
@@ -111,6 +96,28 @@ Worked on a distance calibration process for focusable lenses of luminance measu
   - Paper: [AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research](https://ieeexplore.ieee.org/document/10598268)
   - GitHub Repo: [Telecommunication-Telemedia-Assessment - AVT-VQDB-UHD-2-HDR](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-2-HDR)
 
+---
+Besides doing the freelance work at Outlier.ai, and educating myself (see "Currently Exploring and Improving" below) I am also doing online courses in topics which I think might be helpful for my professional career in the future.<br>
+Here are some of the courses I took recently:
+
+<p align="center">
+  <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
+</p>
+
+<p align="center">
+  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="300">
+  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="300">
+  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="300">
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="300">
+  <img src="Assets/Certificates/Python_For_Computer_Vision_Abschlussbescheinigung.jpg" alt="Python for Computer Vision Certificate" width="300">
+  <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="300">
+</p>
 ---
 
 ## 🌟 What I’m Passionate About
