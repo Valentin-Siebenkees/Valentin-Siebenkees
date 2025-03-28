@@ -45,6 +45,8 @@ I was also allowed to present this project at one of europes biggest lighting co
 
 ➡️ [Github Repo](https://github.com/TechnoTeam-Bildverarbeitung-GmbH/DUGR_GUI)
 
+For more detail on my Bachelor Thesis, see [Scientific Work](#scientific-work) below.
+
 <br>
 <br>
 <br>
@@ -54,7 +56,9 @@ I was also allowed to present this project at one of europes biggest lighting co
   <img src="Assets/Logo_SHS.png" alt="Siemens Healthineers Logo" width="250">
 </p>
 
-For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on advancing imaging systems in the medical field and improving patient care in the future. 
+For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on advancing imaging systems in the medical field and improving patient care in the future.
+
+For more info about my master thesis, see [Scientific Work](#scientific-work) below.
 <br>
 <br>
 <br>
