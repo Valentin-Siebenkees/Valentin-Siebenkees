@@ -145,25 +145,23 @@ Here are some of the courses I took recently:
 
 ## 🚀 Currently Exploring & Improving
 
-📂 I have created a [repository](https://github.com/Valentin-Siebenkees/StudyNotes) where I document my notes and learning progress various topics including:
+* Python – My go-to language for many tasks. I have a strong foundation but want to further improve and keep learning more advanced concepts.
+  
+* C++ – A language I have good experience with, but I am focusing on learning it in a more structured way, covering best practices and deeper language details.
+  
+* Machine Learning – I took courses during my Master’s degree, but I am revisiting core concepts and deepening my knowledge by completing courses from DeepLearning.AI and Stanford Online.
+  
+* Medical Imaging – Includes different subtopics, e.g. concepts of medical imaging devices, how to apply machine learning on medical images, but also important medical standards
+  
+* Data Structures and Algorithms – I wanted to learn DSA including BigO, Searching Algorithms, Sorting Algorithms and Advanced Algorithms
+  
+* LeetCode – Recently I started doing LeetCode Problems, to structure it I am mostly following the [NeetCode Roadmap](https://neetcode.io/roadmap)
+  
+* Optics – A topic where I have a good foundation due to subjects in university and my work at TechnoTeam. It is a topic I think is really interesting and therefore I wanted to revisit some concepts, including the physics of light and design of optical systems
 
-* [Python](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Python) – My go-to language for many tasks. I have a solid foundation but want to further improve and keep learning more advanced concepts.
+* Signal Processing – Some Signal Processing topics I learned in university, which I wanted to revisit (Signal Representation, Sampling & Quantization, Convolution, Transformations) 
   
-* [C++](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/C%2B%2B) – A language I have some experience with, but I am now focusing on learning it in a more structured way, covering best practices and deeper language details.
-  
-* [Machine Learning](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Machine_Learning) – I took courses during my Master’s degree, but I am revisiting core concepts and deepening my knowledge.
-  
-* [Medical Imaging](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Medical_Imaging) – This directory includes different subtopics, e.g. concepts of medical imaging devices, how to apply machine learning on medical images, but also important medical standards
-  
-* [Data Structures and Algorithms](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Data_Structures_And_Algorithms) – I wanted to learn DSA including BigO, Searching Algorithms, Sorting Algorithms and Advanced Algorithms
-  
-* [LeetCode](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/LeetCode) – Recently I started doing LeetCode Problems, to structure it I am mostly following the [NeetCode Roadmap](https://neetcode.io/roadmap)
-  
-* [Optics](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Optics) – A topic I wanted to revisit, including the physics of light and design of optical systems
-
-* [Signal Processing](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Signal_Processing) – Some Signal Processing topics I learned in university, which I wanted to revisit (Signal Representation, Sampling & Quantization, Convolution, Transformations) 
-  
-* [Math](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Math) – I also wanted to revisit some math concepts and go into detail when it comes to math concepts used in machine learning (Linear Algebra, Calculus, Statistics, Linear Models & Optimization)
+* Math – I also wanted to revisit some math concepts and go into detail when it comes to math used in machine learning (Linear Algebra, Calculus, Statistics, Linear Models & Optimization)
 
 
 ---
