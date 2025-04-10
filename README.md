@@ -244,6 +244,7 @@ Here are some of the courses I took recently:
 #  
 
 <p align="center">
+  Udemy Courses:<br>
   <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="250">
   <img src="Assets/Certificates/Python_For_Computer_Vision_Abschlussbescheinigung.jpg" alt="Python for Computer Vision Certificate" width="250">
   <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="250">
