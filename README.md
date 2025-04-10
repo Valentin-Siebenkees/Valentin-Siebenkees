@@ -14,7 +14,7 @@ In my free time, you’ll often find me:
 - 🐕 Taking walks with our dog Dobby (The best dog in the world [photo](Assets/Dobby.jpeg))  
 - 🎸 Playing my bass guitar  
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 🎓 Education and Work 
 
@@ -75,7 +75,7 @@ For more info about my master thesis, see [Scientific Work](#scientific-work) be
 
 While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output.
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### Scientific Work:
 
@@ -106,7 +106,7 @@ Worked on a distance calibration process for focusable lenses of luminance measu
   - Paper: [AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research](https://ieeexplore.ieee.org/document/10598268)
   - GitHub Repo: [Telecommunication-Telemedia-Assessment - AVT-VQDB-UHD-2-HDR](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-2-HDR)
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 📚 Online Courses
 
@@ -125,7 +125,7 @@ Here are some of the courses I took recently:
 
 <br>
 <br>
-<hr style="border: none; border-top: 1px solid #ccc;" />
+<hr style="border: none; border-top: 3px solid #ccc;" />
 
 <p align="center">
   <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
@@ -139,7 +139,7 @@ Here are some of the courses I took recently:
 
 <br>
 <br>
-<hr style="border: none; border-top: 1px solid #ccc;" />
+<hr style="border: none; border-top: 3px solid #ccc;" />
 
 <p align="center">
   <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="250">
@@ -147,7 +147,7 @@ Here are some of the courses I took recently:
   <img src="Assets/Certificates/Abschlussbescheinigung_DeepLearning_NeuronaleNetze_AI_Komplettkurs.jpg" alt="DeepLearning NN AI Certificate" width="250">
 </p>
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 🌟 What I’m Passionate About
 
@@ -158,7 +158,7 @@ Here are some of the courses I took recently:
 * 🤖 Machine Learning – applying AI to improve processing aswell as classification tasks in various imaging applications
 * 👁 Human Perception – exploring how we perceive image and video (quality)
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 🚀 Currently Exploring & Improving
 
@@ -181,7 +181,7 @@ Here are some of the courses I took recently:
 * __Math__ – I also wanted to revisit some math concepts and go into detail when it comes to math used in machine learning (Linear Algebra, Calculus, Statistics, Linear Models & Optimization)
 
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 🛠  Tech Stack
 
@@ -199,7 +199,7 @@ Here are some of the courses I took recently:
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white)
 
-<hr style="border: none; border-top: 2px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ## 📫 Let’s Connect!
 
