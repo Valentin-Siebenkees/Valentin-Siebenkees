@@ -141,7 +141,7 @@ Here are some of the courses I took recently:
       <em>
         Exploring Data<br>
         Handling Class Imbalance and Small Sets<br>
-        Building Models for Segmentation & Classification<br>
+        Using Models for Segmentation & Classification<br>
         Evaluating Model Performance with Key Metrics
         <br>
         <br>
