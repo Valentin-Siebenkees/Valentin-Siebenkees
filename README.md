@@ -119,11 +119,13 @@ Worked on a distance calibration process for focusable lenses of luminance measu
 Besides doing the freelance work at Outlier.ai, and educating myself (see "Currently Exploring and Improving" below) I am also doing online courses in topics which I think might be helpful for my professional career in the future.<br>
 Here are some of the courses I took recently:
 
+<!-- Top centered image with description -->
 <p align="center">
   <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400"><br>
   <em>AI for Medicine Specialization</em>
 </p>
 
+<!-- Three images in a row, each with descriptions -->
 <p align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
