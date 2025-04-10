@@ -125,7 +125,7 @@ Here are some of the courses I took recently:
 
 <p align="center">
   <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400"><br>
-  <em>AI for Medicine Specialization</em>
+  <em>AI for Medicine Specialization</em><br>Consisting of:
 </p>
 
 <table align="center">
