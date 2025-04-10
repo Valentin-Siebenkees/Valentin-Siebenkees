@@ -192,7 +192,7 @@ Here are some of the courses I took recently:
   <tr>
     <td align="center">
       <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="250"><br>
-      Supervised Machine Learning Regression & Classification:<br>
+      Supervised Machine Learning<br>Regression & Classification:<br>
       <br>
       <em>
         Linear & Logistic Regression<br>
@@ -222,7 +222,7 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250"><br>
-      Unsupervised Learning Recommenders and Reinforcement Learning:<br>
+      Unsupervised Learning<br>Recommenders and Reinforcement Learning:<br>
       <br>
       <em>
         Clustering & K-means<br>
