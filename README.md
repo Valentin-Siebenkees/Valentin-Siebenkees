@@ -232,6 +232,7 @@ Here are some of the courses I took recently:
         Reinforcement Learning<br>
         Return & State-Action Value Function
         <br>
+        <br>
       </em>
     </td>
   </tr>
