@@ -56,8 +56,9 @@ I was also allowed to present this project at one of europes biggest lighting co
 For more detail on my Bachelor Thesis, see [Scientific Work](#scientific-work) below.
 
 <br>
-<br>
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
+
+#  
+
 <br>
 <br>
 
@@ -70,8 +71,9 @@ For my master thesis, I worked together with [Siemens Healthineers](https://www.
 For more info about my master thesis, see [Scientific Work](#scientific-work) below.
 
 <br>
-<br>
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
+
+#  
+
 <br>
 <br>
 
@@ -97,17 +99,13 @@ Additionally, the content to be transmitted was analyzed in regards to temporal 
 
 To back this up, objective analysis was done on the test content, using various state of the art compression algorithms and objective (full reference) quality metrics.
 
-<br>
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
-<br>
+#  
 
 📜 Bachelor Thesis: [Untersuchung des Einsatzes von AR/VR-Systemen für die Kalibrierung/Referenzierung einer fokusbasierten Abstandsmessung mit elektronisch fokussierbaren Objektiven](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00004164)
 
 Worked on a distance calibration process for focusable lenses of luminance measuring cameras using virtual images. This involved the evaluation of different devices to display virtual images, python based automation of measurements based on criteria for determining the quality of focus adjustment, creation of a mathematical model, as well as error estimation based on Monte Carlo simulations.
 
-<br>
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
-<br>
+#  
 
 📜 Media Project: During the masters degree we worked on an open 8K HDR source dataset for video quality research (AVT-VQDB-UHD-2-HDR)
 
