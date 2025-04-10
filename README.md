@@ -136,6 +136,7 @@ Here are some of the courses I took recently:
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
       <em>AI For Medical Diagnosis:<br>
+        <br>
         Exploring Data<br>
         Handling Class Imbalance and Small Sets<br>
         Building Models for Segmentation & Classification<br>
