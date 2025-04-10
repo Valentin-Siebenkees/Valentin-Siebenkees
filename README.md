@@ -207,8 +207,8 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250"><br>
-      Advanced Learning Algorithms:<br>
       <br>
+      Advanced Learning Algorithms:<br>
       <br>
       <em>
         Neural Networks<br>
