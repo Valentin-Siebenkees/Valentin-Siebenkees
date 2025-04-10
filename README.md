@@ -145,7 +145,14 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
-      <em>AI For Medical Prognosis</em>
+      <em>AI For Medical Prognosis:<br>
+        <br>
+        Linear Prognostic Models<br>
+        Tree-based Models<br>
+        Missing Data and Imputation<br>
+        Risk and Survival Models<br>
+        Evaluation of Risk and Survival Models
+      </em>
     </td>
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
