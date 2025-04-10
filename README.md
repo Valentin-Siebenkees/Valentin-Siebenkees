@@ -125,23 +125,23 @@ Here are some of the courses I took recently:
   <em>AI for Medicine Specialization</em>
 </p>
 
-<!-- Three images in a row, each with descriptions -->
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+<!-- Row of three images with descriptions -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
     <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
     <em>AI For Medical Diagnosis</em>
   </div>
   
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
     <em>AI For Medical Prognosis</em>
   </div>
   
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center;">
     <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
     <em>AI For Medical Treatment</em>
   </div>
-</p>
+</div>
 
 <br>
 <br>
