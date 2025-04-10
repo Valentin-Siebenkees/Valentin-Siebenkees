@@ -206,7 +206,6 @@ Here are some of the courses I took recently:
       </em>
     </td>
     <td align="center">
-      <br>
       <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250"><br>
       Advanced Learning Algorithms:<br>
       <br>
