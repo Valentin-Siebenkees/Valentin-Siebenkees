@@ -33,7 +33,7 @@ During my studies, I worked as a student assistant for the [Faculty of Audiovisu
 
 <br>
 <br>
-#   
+###  
 ---
 <br>
 <br>
