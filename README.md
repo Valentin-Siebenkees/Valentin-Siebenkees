@@ -195,36 +195,42 @@ Here are some of the courses I took recently:
       Supervised Machine Learning Regression & Classification:<br>
       <br>
       <em>
-        Exploring Data<br>
-        Handling Class Imbalance and Small Sets<br>
-        Using Models for Segmentation & Classification<br>
-        Evaluating Model Performance with Key Metrics
+        Linear & Logistic Regression<br>
+        Gradient Descent<br>
+        Cost Functions<br>
+        Feature Scaling & Engineering<br>
+        Learning Rate<br>
+        Overfitting & Regularization
         <br>
         <br>
       </em>
     </td>
     <td align="center">
       <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250"><br>
-      AI For Medical Prognosis:<br>
+      Advanced Learning Algorithms:<br>
       <br>
       <em>
-        Linear Prognostic Models<br>
-        Tree-based Models<br>
-        Missing Data and Imputation<br>
-        Risk and Survival Models<br>
-        Evaluation of Risk and Survival Models
+        Neural Networks<br>
+        Activation Functions, Optimizers, Softmax<br>
+        Bias & Variance<br>
+        Learning Curves<br>
+        Transfer Learning<br>
+        Decision Trees<br>
+        Measuring Purity & Information Gain<br>
+        Random Forest, XGBoost
       </em>
     </td>
     <td align="center">
       <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250"><br>
-      AI For Medical Treatment:<br>
+      Unsupervised Learning Recommenders and Reinforcement Learning:<br>
       <br>
       <em>
-        Randomized Control Trials<br>
-        Treatment Effect Estimation<br>
-        Natural Language Processing for Auto Labeling<br>
-        Interpreting Deep Learning Models<br>
-        (Localization & Heatmaps, GradCam)
+        Clustering & K-means<br>
+        Anomaly Detection<br>
+        Collaborative Filtering<br>
+        Principal Component Analysis<br>
+        Reinforcement Learning<br>
+        Return & State-Action Value Function
       </em>
     </td>
   </tr>
