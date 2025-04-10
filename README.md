@@ -141,6 +141,7 @@ Here are some of the courses I took recently:
         Handling Class Imbalance and Small Sets<br>
         Building Models for Segmentation & Classification<br>
         Evaluating Model Performance with Key Metrics
+        <br>
       </em>
     </td>
     <td align="center">
