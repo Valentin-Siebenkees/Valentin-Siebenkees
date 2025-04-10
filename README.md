@@ -142,6 +142,7 @@ Here are some of the courses I took recently:
         Building Models for Segmentation & Classification<br>
         Evaluating Model Performance with Key Metrics
         <br>
+        <br>
       </em>
     </td>
     <td align="center">
