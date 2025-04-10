@@ -231,6 +231,7 @@ Here are some of the courses I took recently:
         Principal Component Analysis<br>
         Reinforcement Learning<br>
         Return & State-Action Value Function
+        <br>
       </em>
     </td>
   </tr>
