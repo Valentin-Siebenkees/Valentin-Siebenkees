@@ -14,7 +14,7 @@ In my free time, you’ll often find me:
 - 🐕 Taking walks with our dog Dobby (The best dog in the world [photo](Assets/Dobby.jpeg))  
 - 🎸 Playing my bass guitar  
 
-<hr style="border:2px solid gray">
+<hr style="border:3px solid gray">
 
 ## 🎓 Education and Work 
 
