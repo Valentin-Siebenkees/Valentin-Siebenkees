@@ -125,8 +125,9 @@ Here are some of the courses I took recently:
 
 <p align="center">
   <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400"><br>
-  <em>AI for Medicine Specialization
-    <br>
+  AI for Medicine Specialization
+  <br>
+  <em>
     Consisting of:
   </em>
 </p>
@@ -148,8 +149,9 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
-      <em>AI For Medical Prognosis:<br>
-        <br>
+      AI For Medical Prognosis:<br>
+      <br>
+      <em>
         Linear Prognostic Models<br>
         Tree-based Models<br>
         Missing Data and Imputation<br>
@@ -159,7 +161,14 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
-      <em>AI For Medical Treatment</em>
+      AI For Medical Treatment:<br>
+      <br>
+      <em>
+        Randomized Control Trials<br>
+        Treatment Effect Estimation (Average & Individualized)<br>
+        Natural Language Processing for Auto Labeling<br>
+        Interpreting Deep Learning Models (Localization & Heatmaps, GradCam)
+      </em>
     </td>
   </tr>
 </table>
