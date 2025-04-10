@@ -213,8 +213,7 @@ Here are some of the courses I took recently:
       <em>
         Neural Networks<br>
         Activation Functions, Optimizers, Softmax<br>
-        Bias & Variance<br>
-        Learning Curves<br>
+        Bias & Variance, Learning Curves<br>
         Transfer Learning<br>
         Decision Trees<br>
         Measuring Purity & Information Gain<br>
