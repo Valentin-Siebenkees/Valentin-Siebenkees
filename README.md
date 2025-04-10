@@ -30,8 +30,10 @@ The Master's program was bilingual with subjects in German and English. Due to i
 There, I specialized in image and video processing (and coding), optics and lighting technology as well as machine learning.
 
 During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
+
 <br>
 <br>
+<hr style="border:1px solid gray">
 <br>
 <br>
 
@@ -54,6 +56,7 @@ For more detail on my Bachelor Thesis, see [Scientific Work](#scientific-work) b
 
 <br>
 <br>
+<hr style="border:1px solid gray">
 <br>
 <br>
 
@@ -64,8 +67,10 @@ For more detail on my Bachelor Thesis, see [Scientific Work](#scientific-work) b
 For my master thesis, I worked together with [Siemens Healthineers](https://www.siemens-healthineers.com/de), where I gained insights into the healthcare sector and developed my ambition to use and expand my knowledge in the field of optics, image processing and software development to work on advancing imaging systems in the medical field and improving patient care in the future.
 
 For more info about my master thesis, see [Scientific Work](#scientific-work) below.
+
 <br>
 <br>
+<hr style="border:1px solid gray">
 <br>
 <br>
 
@@ -92,6 +97,7 @@ Additionally, the content to be transmitted was analyzed in regards to temporal 
 To back this up, objective analysis was done on the test content, using various state of the art compression algorithms and objective (full reference) quality metrics.
 
 <br>
+<hr style="border:1px solid gray">
 <br>
 
 📜 Bachelor Thesis: [Untersuchung des Einsatzes von AR/VR-Systemen für die Kalibrierung/Referenzierung einer fokusbasierten Abstandsmessung mit elektronisch fokussierbaren Objektiven](https://bibliographie.tu-ilmenau.de/servlets/DozBibEntryServlet?mode=show&id=ilm_mods_00004164)
@@ -126,7 +132,7 @@ Here are some of the courses I took recently:
 <br>
 <br>
 
-<hr style="border:3px solid gray">
+<hr style="border:1px solid gray">
 
 <p align="center">
   <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
@@ -141,7 +147,7 @@ Here are some of the courses I took recently:
 <br>
 <br>
 
-<hr style="border:3px solid gray">
+<hr style="border:1px solid gray">
 
 <p align="center">
   <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="250">
