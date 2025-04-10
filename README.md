@@ -133,7 +133,7 @@ Here are some of the courses I took recently:
 
 <table align="center" border="0">
   <tr>
-    <td align="center">
+    <td align="center" border="0">
       <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
       <em>AI For Medical Diagnosis</em>
     </td>
