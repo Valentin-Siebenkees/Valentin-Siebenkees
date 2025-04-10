@@ -33,7 +33,9 @@ During my studies, I worked as a student assistant for the [Faculty of Audiovisu
 
 <br>
 <br>
+
 <div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
+
 <br>
 <br>
 
