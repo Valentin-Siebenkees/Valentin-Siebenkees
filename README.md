@@ -125,23 +125,23 @@ Here are some of the courses I took recently:
   <em>AI for Medicine Specialization</em>
 </p>
 
-<!-- Row of three images with descriptions -->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
-    <em>AI For Medical Diagnosis</em>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
-    <em>AI For Medical Prognosis</em>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
-    <em>AI For Medical Treatment</em>
-  </div>
-</div>
+<!-- Table for bottom row images and descriptions -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
+      <em>AI For Medical Diagnosis</em>
+    </td>
+    <td align="center">
+      <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
+      <em>AI For Medical Prognosis</em>
+    </td>
+    <td align="center">
+      <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
+      <em>AI For Medical Treatment</em>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
