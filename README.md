@@ -270,7 +270,7 @@ Here are some of the courses I took recently:
   
 * __Machine Learning__ – I took courses during my Master’s degree, but I am revisiting core concepts and deepening my knowledge by completing courses from DeepLearning.AI and Stanford Online.
   
-* __Medical Imaging__ – Includes different subtopics, e.g. concepts of medical imaging devices, how to apply machine learning on medical images, but also important medical standards
+* __Medical Imaging__ – Includes different subtopics, e.g. concepts of medical imaging devices, how to apply machine learning on medical images, but also important medical standards and formats like DICOM
   
 * __Data Structures and Algorithms__ – I wanted to learn DSA including BigO, Searching Algorithms, Sorting Algorithms and Advanced Algorithms
   
