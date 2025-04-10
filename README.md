@@ -131,11 +131,16 @@ Here are some of the courses I took recently:
   </em>
 </p>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td align="center" border="0">
+    <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
-      <em>AI For Medical Diagnosis</em>
+      <em>AI For Medical Diagnosis:<br>
+        Exploring Data<br>
+        Handling Class Imbalance and Small Sets<br>
+        Building Models for Segmentation & Classification<br>
+        Evaluating Model Performance with Key Metrics
+      </em>
     </td>
     <td align="center">
       <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
