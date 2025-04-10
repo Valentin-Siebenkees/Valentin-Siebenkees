@@ -84,7 +84,6 @@ For more info about my master thesis, see [Scientific Work](#scientific-work) be
 While I am looking for a fulltime position, I am working as Tier 3 Python freelancer for [Outlier.ai](https://outlier.ai/), where I am designing and optimizing prompts to train LLMs for coding related tasks, including code generation, refactoring and debugging as well as reviewing and rating the LLM output.
 
 <br>
-<br>
 
 ---
 
