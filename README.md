@@ -120,13 +120,25 @@ Besides doing the freelance work at Outlier.ai, and educating myself (see "Curre
 Here are some of the courses I took recently:
 
 <p align="center">
-  <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400">
+  <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400"><br>
+  <em>AI for Medicine Specialization</em>
 </p>
 
 <p align="center">
-  <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250">
-  <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250">
-  <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250"><br>
+    <em>AI For Medical Diagnosis</em>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250"><br>
+    <em>AI For Medical Prognosis</em>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250"><br>
+    <em>AI For Medical Treatment</em>
+  </div>
 </p>
 
 <br>
