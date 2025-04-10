@@ -180,14 +180,55 @@ Here are some of the courses I took recently:
 #  
 
 <p align="center">
-  <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
+  <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400"><br>
+  Machine Learning Specialization
+  <br>
+  <em>
+    Consisting of:
+  </em>
 </p>
 
-<p align="center">
-  <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250">
-  <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250">
-  <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="250">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Assets/Certificates/Supervised_ML_Regression_Classification.jpg" alt="Supervised Machine Learning Certificate" width="250"><br>
+      Supervised Machine Learning Regression & Classification:<br>
+      <br>
+      <em>
+        Exploring Data<br>
+        Handling Class Imbalance and Small Sets<br>
+        Using Models for Segmentation & Classification<br>
+        Evaluating Model Performance with Key Metrics
+        <br>
+        <br>
+      </em>
+    </td>
+    <td align="center">
+      <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250"><br>
+      AI For Medical Prognosis:<br>
+      <br>
+      <em>
+        Linear Prognostic Models<br>
+        Tree-based Models<br>
+        Missing Data and Imputation<br>
+        Risk and Survival Models<br>
+        Evaluation of Risk and Survival Models
+      </em>
+    </td>
+    <td align="center">
+      <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250"><br>
+      AI For Medical Treatment:<br>
+      <br>
+      <em>
+        Randomized Control Trials<br>
+        Treatment Effect Estimation<br>
+        Natural Language Processing for Auto Labeling<br>
+        Interpreting Deep Learning Models<br>
+        (Localization & Heatmaps, GradCam)
+      </em>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
