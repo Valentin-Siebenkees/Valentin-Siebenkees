@@ -222,7 +222,7 @@ Here are some of the courses I took recently:
     </td>
     <td align="center">
       <img src="Assets/Certificates/Unsupervised_Learning_Recommenders_Reinforcement_Learning.jpg" alt="Unsupervised Learning Certificate" width="250"><br>
-      Unsupervised Learning<br>Recommenders and Reinforcement Learning:<br>
+      Unsupervised Learning<br>Recommenders & Reinforcement Learning:<br>
       <br>
       <em>
         Clustering & K-means<br>
