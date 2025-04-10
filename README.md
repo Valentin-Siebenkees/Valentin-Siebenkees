@@ -132,7 +132,7 @@ Here are some of the courses I took recently:
 <br>
 <br>
 
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
+#  
 
 <p align="center">
   <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
@@ -147,7 +147,7 @@ Here are some of the courses I took recently:
 <br>
 <br>
 
-<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
+#  
 
 <p align="center">
   <img src="Assets/Certificates/Abschlussbescheinigung_DataScience_ML_AI.jpg" alt="DataScience ML AI Certificate" width="250">
