@@ -112,6 +112,19 @@ Besides doing the freelance work at Outlier.ai, and educating myself (see "Curre
 Here are some of the courses I took recently:
 
 <p align="center">
+  <img src="Assets/Certificates/AI_For_Medicine_Specialization.jpg" alt="AI for Medicine Specialization Certificate" width="400">
+</p>
+
+<p align="center">
+  <img src="Assets/Certificates/AI_For_Medical_Diagnosis.jpg" alt="AI For Medical Diagnosis Certificate" width="250">
+  <img src="Assets/Certificates/AI_For_Medical_Prognosis.jpg" alt="AI For Medical Prognosis Certificate" width="250">
+  <img src="Assets/Certificates/AI_For_Medical_Treatment.jpg" alt="AI For Medical Treatment Certificate" width="250">
+</p>
+
+<br>
+<br>
+
+<p align="center">
   <img src="Assets/Certificates/Machine_Learning_Specialization.jpg" alt="Machine Learning Specialization Certificate" width="400">
 </p>
 
