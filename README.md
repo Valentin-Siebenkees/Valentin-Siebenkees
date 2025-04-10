@@ -209,6 +209,7 @@ Here are some of the courses I took recently:
       <img src="Assets/Certificates/Advanced_Learning_Algorithms.jpg" alt="Advanced Learning Algorithms Certificate" width="250"><br>
       Advanced Learning Algorithms:<br>
       <br>
+      <br>
       <em>
         Neural Networks<br>
         Activation Functions, Optimizers, Softmax<br>
