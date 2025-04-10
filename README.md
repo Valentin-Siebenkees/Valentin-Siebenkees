@@ -167,7 +167,7 @@ Here are some of the courses I took recently:
         Randomized Control Trials<br>
         Treatment Effect Estimation (Average & Individualized)<br>
         Natural Language Processing for Auto Labeling<br>
-        Interpreting Deep Learning Models (Localization & Heatmaps, GradCam)
+        Interpreting Deep Learning Models<br>(Localization & Heatmaps, GradCam)
       </em>
     </td>
   </tr>
