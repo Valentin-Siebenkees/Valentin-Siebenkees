@@ -31,7 +31,6 @@ There, I specialized in image and video processing (and coding), optics and ligh
 
 During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
 
-<br>
 <br> 
 
 #  
