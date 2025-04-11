@@ -27,7 +27,7 @@ Because of my interest in technology, I decided to study [Media Technology](http
 The Bachelor's degree can be described as a basic engineering course, which includes various mathematical, electrotechnical, physical, signal processing and computer science basics as well as special media technology subjects such as audio and video technology.
 
 The Master's program was bilingual with subjects in German and English. Due to it´s modular structure it gave me the opportunity to choose subjects that particularly interested me.
-There, I specialized in image and video processing (and coding), optics and lighting technology as well as machine learning.
+There, I specialized in image and video processing (and coding), optics and light as well as machine learning.
 
 During my studies, I worked as a student assistant for the [Faculty of Audiovisual Technology](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik) in Ilmenau.
 
